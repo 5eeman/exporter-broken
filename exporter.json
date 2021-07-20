@@ -13,7 +13,7 @@
     "homepage": "https://supernova.io",
     "config": {
         "output": "output.json",
-        "sources": "sources.json",
+        "sources": "sources.json"
     },
     "engines": {
         "pulsar": "1.0.0",
