@@ -1,0 +1,8 @@
+{
+    "blueprints": [
+        {
+            "invoke": "broken.pr",
+            "write_to": "Nope.swift"
+        }
+    ]
+}
