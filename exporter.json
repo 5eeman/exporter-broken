@@ -18,5 +18,6 @@
     "engines": {
         "pulsar": "1.0.0",
         "supernova": "1.0.0"
-    }
+    },
+    "usesBrands": false
 }
